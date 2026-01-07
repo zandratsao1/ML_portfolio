@@ -65,6 +65,7 @@ logs/
 
 # Ignore compiled JS/CSS
 node_modules/
+*.zip
 
 # Lock files
 Pipfile.lock
